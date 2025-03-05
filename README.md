@@ -1,2 +1,2 @@
-# Chesstheory.app
+# Chesstheory
 The repo for Chesstheory.app.
